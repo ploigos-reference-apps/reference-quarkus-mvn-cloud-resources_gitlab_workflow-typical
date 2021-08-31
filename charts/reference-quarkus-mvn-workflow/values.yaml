@@ -1,0 +1,3 @@
+global:
+  applicationName: ref-quarkus-mvn-gitlab-typ
+  serviceName: fruit
